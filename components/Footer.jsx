@@ -10,7 +10,7 @@ const Footer = () => {
           process data with your explicit consent.
         </p>
         <div className="mt-4 w-[80%] md:w-[70%] h-0.5 bg-white"></div>
-        <p className="mt-6">
+        <p className="mt-4">
           &copy; {new Date().getFullYear()} SuperChief.Pro. All rights reserved.
         </p>
       </div>
